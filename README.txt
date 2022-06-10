@@ -1,4 +1,5 @@
-#JavaScript Word Counter
+# JavaScript Word Counter
+
 ***
-##This simple word counter app is built using HTML5, CSS and vanilla JavaScript;
+## This simple word counter app is built using HTML5, CSS and vanilla JavaScript;
 
